@@ -1,5 +1,4 @@
 
-
 # # Melanoma-Detection-Assignment 
 > Outline a brief description of your project.
 
