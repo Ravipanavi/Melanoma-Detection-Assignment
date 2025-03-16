@@ -27,7 +27,10 @@ These libraries support image preprocessing, deep learning model training, and p
 This project combines deep learning, computer vision, and medical imaging to develop a powerful melanoma detection system. The CNN model will help dermatologists diagnose skin cancer more efficiently, ultimately saving lives through early detection.
 
 
-## Acknowledgements
+## Acknowledgements 
+
+Acknowledge the International Skin Imaging Collaboration (ISIC) for providing the dataset and the open-source community for supporting deep learning advancements. Special thanks to TensorFlow, Keras, NumPy, Pandas, and Matplotlib for enabling model development, data processing, and visualization.
+
 Contact
 Created by Ravi P
 ravipanavirs@gmail.com 
