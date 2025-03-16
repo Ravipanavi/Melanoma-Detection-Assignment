@@ -1,7 +1,6 @@
 
-# # Melanoma-Detection-Assignment 
-> Outline a brief description of your project.
-
+ # Melanoma-Detection-Assignment 
+> This project builds a custom CNN model for melanoma detection.
 
 ## Table of Contents
 * [General Info](#general-information)
